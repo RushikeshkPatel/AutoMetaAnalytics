@@ -28,7 +28,6 @@ The goal of this project is to explore trends, distributions, and relationships 
 - seaborn
 - matplotlib
 - plotly
-- wordcloud
 
 ---
 
@@ -41,6 +40,13 @@ The goal of this project is to explore trends, distributions, and relationships 
 5. **Result Analysis**
 
 ---
+
+## 📸 visualization Preview 
+
+![pic](names.png)
+![pic](otherpie.png)
+![pic](pie.png)
+![pic](tree.png)
 
 ## 📊 Key Insights
 
