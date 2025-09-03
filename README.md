@@ -58,5 +58,5 @@ The goal of this project is to explore trends, distributions, and relationships 
 
 ---
 
-You can explore the full analysis in https://github.com/RushikeshkPatel/AutoMetaAnalytics/blob/017f096d207870fcb8b6aa99beca76e44eaf9c0b/car_data_analysis.ipynb
+You can explore the full analysis in  ![Sales by Region ](car_data_analysis.ipynb)
 
