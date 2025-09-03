@@ -58,5 +58,4 @@ The goal of this project is to explore trends, distributions, and relationships 
 
 ---
 
-📈You can explore the full analysis in [car_data_analysis.ipynb]()
-📈 You can explore the full analysis in [car_data_analysis.ipynb](car_data_analysis.ipynb)
+## 📈 You can explore the full analysis in [car_data_analysis.ipynb](car_data_analysis.ipynb)
