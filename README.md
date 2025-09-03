@@ -57,3 +57,6 @@ The goal of this project is to explore trends, distributions, and relationships 
 - **Peak Year:** Most cars sold in 2017  
 
 ---
+
+You can explore the full analysis in [AutoMetaAnalytics.ipynb]
+
