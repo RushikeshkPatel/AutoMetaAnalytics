@@ -54,6 +54,8 @@ The goal of this project is to explore trends, distributions, and relationships 
   </tr>
 </table>
 
+---
+
 ## 📊 Key Insights
 
 - **Best-selling Car Brand:** Maruti, followed by Hyundai  
