@@ -41,12 +41,18 @@ The goal of this project is to explore trends, distributions, and relationships 
 
 ---
 
-## 📸 visualization Preview 
+## 📸 Visualization Preview
 
-![pic](names.png)
-![pic](otherpie.png)
-![pic](pie.png)
-![pic](tree.png)
+<table>
+  <tr>
+    <td><img src="names.png" alt="Names" width="300"/></td>
+    <td><img src="otherpie.png" alt="Other Pie" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="pie.png" alt="Pie" width="300"/></td>
+    <td><img src="tree.png" alt="Tree" width="300"/></td>
+  </tr>
+</table>
 
 ## 📊 Key Insights
 
